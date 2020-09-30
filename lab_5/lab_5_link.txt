@@ -1,9 +1,9 @@
 Ishika Patel
 SID: 109495372
-Link to lab_4 Folder in Git: https://github.com/ishika-patel/Labs_3308/tree/master/lab_4
+Link to lab_5 Folder in Git: https://github.com/ishika-patel/Labs_3308/blob/master/lab_5/lab_5_link.txt
 General Link to Git (if lab link does not work): https://github.com/ishika-patel/Labs_3308.git
 
 Thank you!
 
-Notes for this Lab:
-- Part 4 requirement of screenshots are no longer required. Upload working shell script and credit will be given.
+Note:
+Screenshots of each of the web pages is included
