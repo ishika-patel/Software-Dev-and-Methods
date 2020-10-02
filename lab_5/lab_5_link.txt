@@ -1,6 +1,6 @@
 Ishika Patel
 SID: 109495372
-Link to lab_5 Folder in Git: https://github.com/ishika-patel/Labs_3308/blob/master/lab_5/lab_5_link.txt
+Link to lab_5 Folder in Git: https://github.com/ishika-patel/Labs_3308/tree/master/lab_5
 General Link to Git (if lab link does not work): https://github.com/ishika-patel/Labs_3308.git
 
 Thank you!
