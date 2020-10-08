@@ -1,0 +1,11 @@
+Ishika Patel
+SID: 109495372
+Link to Published Website in Git: http://ishika-patel.github.io
+Thank you!
+
+Notes for Extras in that Homework:
+- Added a redirection to the main site instead of simply pasting the links, this was the most fun part
+- added a Jumbotron on the index.html
+- added in CU Buffs Colors as a theme!
+- on the projects page, added customization of the coloring on the text
+- also in the folder is the initial mypage.html file.
